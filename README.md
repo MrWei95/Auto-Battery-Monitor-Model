@@ -1,2 +1,3 @@
-# Auto-Battery-Monitor-Model
-新能源汽车电池检测模型
+# 新能源汽车电池检测模型
+仓库仅作存档，代码未优化。
+![模型示例](./Document/demo.jpg)
